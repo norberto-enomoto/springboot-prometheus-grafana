@@ -5,10 +5,10 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.6.7</version>
+		<version>3.2.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.amrut.prabhu</groupId>
+	<groupId>com.enomoto</groupId>
 	<artifactId>prometheus-integration</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Prometheus-integration</name>
